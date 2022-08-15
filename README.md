@@ -6,6 +6,8 @@
 ``` bash
 pip install -r requirements.txt
 ```
+* 下載模型
+[Dillinger](https://drive.google.com/file/d/1_JcO9SZL_mZ3LCHhIP_zBCrsrBnY-H75/view?usp=sharing "BERT QA") 模型，放置於GPU_QA/qa/trained_model/ 路徑
 * 部署 airflow, Postgresql 資料庫，Selenium 爬蟲服務
 
 ``` bash
