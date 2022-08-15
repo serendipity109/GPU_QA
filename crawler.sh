@@ -1,0 +1,1 @@
+uvicorn crawler:app
