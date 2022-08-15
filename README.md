@@ -7,15 +7,19 @@
 pip install -r requirements.txt
 ```
 * 部署 airflow, Postgresql 資料庫，Selenium 爬蟲服務
+
   ``` bash
 docker-compose up
   ```
+  
 * momo 購物網 GPU 資料爬取，Postgresql 資料庫創建資料表、儲存資料
+
   ``` bash
 sh crawler.sh
   ```
+  
 * airflow DAG 觸發，資料庫提取顯卡名稱
-![](airflow.png)
+![](images/airflow.png)
 
 * FastAPI Swagger UI POST 機器人問答題問
-![](fastapi.png)
+![](images/fastapi.png)
