@@ -1,5 +1,5 @@
 # GPU 型號 QA 問答機器人
-問一種顯卡型號，回答他的規格問題。
+問一種顯卡型號，回答規格問題。
 
 ## 使用說明
 * 環境安裝
@@ -22,5 +22,5 @@ sh crawler.sh
 ![](images/airflow.png)
 
 * FastAPI Swagger UI POST 機器人問答題問
-![](images/api_q.png =450x150)
-![](images/api_a.png =450x150)
+![](images/api_q.png width="450" height="150")
+![](images/api_a.png width="450" height="150")
