@@ -19,7 +19,9 @@ sh crawler.sh
 ```
   
 * airflow DAG 觸發，資料庫提取顯卡名稱
-![](images/airflow.png)
+<div align="center">
+    <img src="./images/airflow.png" width="2200" height="1100">
+</div>
 
 * FastAPI Swagger UI POST 機器人問答
 ``` bash
