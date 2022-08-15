@@ -23,6 +23,6 @@ sh crawler.sh
 
 * FastAPI Swagger UI POST 機器人問答
 <div align="center">
-    <img src=".images/api_q.png" width="450" height="150">
-    <img src=".images/api_a.png" width="450" height="150">
+    <img src="./images/api_q.png" width="450" height="150">
+    <img src="./images/api_a.png" width="450" height="150">
 </div>
