@@ -22,6 +22,9 @@ sh crawler.sh
 ![](images/airflow.png)
 
 * FastAPI Swagger UI POST 機器人問答
+``` bash
+sh QA.sh
+```
 <div align="center">
     <img src="./images/api_q.png" width="450" height="150">
     <img src="./images/api_a.png" width="450" height="150">
